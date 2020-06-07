@@ -3,22 +3,22 @@
 Used to query tweets and analyze the sentiment of given tweets.
 
 Input: Specific queries for tweet(s).
-Outputs: Tweet(s) text as well as sentiment analysis of text.
+<br>Outputs: Tweet(s) text as well as sentiment analysis of text.
 
 # Installation Requirements
 
 (1) Node.js
-https://nodejs.org/en/
+<br>https://nodejs.org/en/
 
 (2) Twit
-Twitter API Client for node
-https://www.npmjs.com/package/twit
-To Install: npm install Twit
+<br>Twitter API Client for node
+<br>https://www.npmjs.com/package/twit
+<br>To Install: npm install Twit
 
-(3) sentiment  
-AFINN-based sentiment analysis for Node.js
-https://www.npmjs.com/package/sentiment
-To Install: npm install sentiment
+(3) sentiment
+<br>AFINN-based sentiment analysis for Node.js
+<br>https://www.npmjs.com/package/sentiment
+<br>To Install: npm install sentiment
 
 
 # Twitter API
@@ -30,9 +30,9 @@ Twitter API Information
 to config.js.
 
 Parameters
-To change the parameters for TwitterSEntimentAnalysis, in bot.js modify or change parameters in var params.
-For more parameters: https://developer.twitter.com/en/docs/api-reference-index.
+<br>To change the parameters for TwitterSEntimentAnalysis, in bot.js modify or change parameters in var params.
+<br>For more parameters: https://developer.twitter.com/en/docs/api-reference-index.
 
-# Running TwitterSEntimentAnalysis
+# Running TwitterSentimentAnalysis
 
 Run node bot.js in terminal.

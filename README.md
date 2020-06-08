@@ -30,7 +30,7 @@ Twitter API Information
 to config.js.
 
 Parameters
-<br>To change the parameters for TwitterSEntimentAnalysis, in bot.js modify or change parameters in var params.
+<br>To change the parameters for TwitterSentimentAnalysis, in bot.js modify or change parameters in var params.
 <br>For more parameters: https://developer.twitter.com/en/docs/api-reference-index.
 
 # Running TwitterSentimentAnalysis
